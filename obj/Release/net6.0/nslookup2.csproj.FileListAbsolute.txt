@@ -1,0 +1,15 @@
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\bin\Release\net6.0\nslookup2.exe
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\bin\Release\net6.0\nslookup2.deps.json
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\bin\Release\net6.0\nslookup2.runtimeconfig.json
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\bin\Release\net6.0\nslookup2.dll
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\bin\Release\net6.0\nslookup2.pdb
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.csproj.AssemblyReference.cache
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.AssemblyInfoInputs.cache
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.AssemblyInfo.cs
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.csproj.CoreCompileInputs.cache
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.dll
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\refint\nslookup2.dll
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.pdb
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\nslookup2.genruntimeconfig.cache
+C:\Users\macavall\Desktop\Projects\HttpMSI\nslookup2\obj\Release\net6.0\ref\nslookup2.dll
